@@ -1,4 +1,9 @@
 export class Escala{
     aeropuerto;
-    duracionAproxEnMin;
+    duracionAproxEnMins;
+    
+    constructor(aeropuerto, duracionAproxEnMins){
+        this.aeropuerto=aeropuerto;
+        this.duracionAproxEnMins=duracionAproxEnMins;
+    }
 }

@@ -3,3 +3,4 @@
 // los requerimientos lo hacemos la proxima clase.
 
 // subirlo a un github nuevo.
+//npm install npm i test npm test
